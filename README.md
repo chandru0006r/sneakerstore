@@ -52,6 +52,12 @@ You can customize the following aspects of the website:
 - **Styles**: Modify the CSS file to change colors, fonts, and layout styles.
 - **JavaScript**: Adjust the animations and interactivity by editing the JavaScript code.
 
+## Outputs
+
+![image](https://github.com/user-attachments/assets/54be1b39-2993-419f-b999-2eb645950c4c)
+### For live output visit [Codepen](https://codepen.io/pen?template=NPKOeYp)
+
+
 ## Author
 
 - **Chandru V**
